@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar {
+  padding: 20px 40px;
+  display: inline-block;
+  height: 100%;
+  border-right: 1px solid black;
+}
+
+.sidebar-user {
+  border-bottom: 1px solid black;
+}
+
+.sidebar-item {
+  margin-top: 20px;
+}
+
+.content {
+  padding: 40px;
+  display: inline-block;
+}
